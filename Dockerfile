@@ -1,4 +1,4 @@
-FROM python:3.8.8-slim-buster
+FROM python:3.8.10-slim-buster
 
 # Set up code directory
 RUN mkdir -p /usr/src/app
